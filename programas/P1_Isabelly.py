@@ -1,4 +1,7 @@
 Programa
+Autor:Isabelly
+Data:28/04/2025
+
 from microbit import *
 import neopixel
 
