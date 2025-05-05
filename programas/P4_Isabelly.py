@@ -3,7 +3,7 @@ Data: 05/05/2025
 
  from microbit import *
 
-p=pin2
+p= pin2.set_analog_period(20)
 angulo=0
 
 
